@@ -1,0 +1,9 @@
+name: "skills"
+description: "Personal coding-agent skills and workflows"
+topics:
+  []
+homepage: ""
+source:
+  provider: github
+  namespace: "sachahjkl"
+  path: "sachahjkl/skills"
