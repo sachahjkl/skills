@@ -1,5 +1,3 @@
-[English](README.md) | [Français](README.fr.md)
-
 # Skills
 
 Personal coding-agent skills shared across projects and agent clients.
