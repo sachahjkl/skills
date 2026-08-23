@@ -1,0 +1,2 @@
+name=skills
+description=Personal coding-agent skills and workflows
